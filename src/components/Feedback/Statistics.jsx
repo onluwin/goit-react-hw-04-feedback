@@ -1,5 +1,3 @@
-import PropTypes from 'prop-types';
-
 import { StatTitle } from './Feedback.styled';
 import { StatisticsList } from './StatisticsList';
 
